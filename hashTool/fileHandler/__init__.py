@@ -48,7 +48,7 @@ class FileHandler:
             print "value:   " '%s' % hash
 
 
-# Run Bitch Run!
+# Run..
 myCrypto = FileHandler()
 #myCrypto.decodeSingleString("asdffjk;sdf")
 myCrypto.openFile("Words.txt")
